@@ -5,10 +5,9 @@
 
 ## How to install
 ```angular2html
-git clone https://github.com/farahaididtaha/pyfaces.git
-cd pyfaces
-virtualenv venv
-source venv/bin/activate
+git clone https://github.com/phillakh/6001CEM---Individual-Project-Facial-Recognition.git
+python -m venv venv (Optional)
+.\venv\Scripts\activate (Optional)
 pip install -r requirements.txt
 ```
 ## How to run
